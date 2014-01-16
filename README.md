@@ -13,7 +13,7 @@ Create a web page that displays Github issues in a [Kanban board](http://en.wiki
 2. Create a *source* folder to contain your code. 
 3. In the *source* directory, please create a Sinatra or Rails app that accomplishes the following:
 	- Connect to the [Github API](http://developer.github.com/)
-	- Find the [rails/rails](https://github.com/sinatra/sinatra) repository
+	- Use the [sinatra/sinatra](https://github.com/sinatra/sinatra) repository
 	- Fetch the 50 most recent issues.
 	- Render an HTML page that shows these issues in three columns:
 	    - "Backlog" for open issues
