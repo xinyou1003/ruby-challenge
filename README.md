@@ -20,7 +20,7 @@ Create a web page that displays Github issues in a [Kanban board](http://en.wiki
 	    - "In progress" for issues that have a pull request
 	    - "Done" for issues that are closed
 	- Each issue should appear like a small card containing the issue name.
-	- [Click here](example.jpg) for a screenshot mock up of what the final product should look like
+	- [Click here](example.png) for a screenshot mock up of what the final output might look like
 4. Commit and Push your code to your new repository
 5. Send us a pull request, we will review your code and get back to you
 
