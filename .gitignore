@@ -6,5 +6,6 @@ source/xinyou1003/log/*.log
 source/xinyou1003/public/system/*
 source/xinyou1003/.bundle
 source/xinyou1003/vendor/*
+source/xinyou1003/vendor/bundle/*
 source/xinyou1003/log/*
 source/xinyou1003/tmp/*/*
