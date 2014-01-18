@@ -1,0 +1,10 @@
+._*
+.project
+
+source/xinyou1003/db/*.sqlite3*
+source/xinyou1003/log/*.log
+source/xinyou1003/public/system/*
+source/xinyou1003/.bundle
+source/xinyou1003/vendor/*
+source/xinyou1003/log/*
+source/xinyou1003/tmp/*/*
